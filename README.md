@@ -1,1 +1,1 @@
-# homework
+# index.ts
